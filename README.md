@@ -1,6 +1,6 @@
 # Quality Clojure
 
-FIXME
+Future development has moved to [Quality Clojure](https://github.com/quality-clojure/qualityclj/)
 
 ## Prerequisites
 
